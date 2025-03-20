@@ -50,7 +50,7 @@ Technologies Used
 
 JavaScript (Chrome Extensions API, Fetch API)
 
-HTML & CSS (UI Design)
+HTML & CSS (UI Design).
 
 Web Speech API (Pronunciation Feature)
 
