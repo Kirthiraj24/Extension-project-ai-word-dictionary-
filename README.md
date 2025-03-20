@@ -10,13 +10,13 @@ Features
 
 Word Lookup  – Right-click a word to instantly get its meaning.
 
-Translation – Supports multiple languages via Google Translate API or DeepL API.
+Translation – Supports multiple languages via Google Gemini APII.
 
-Synonyms & Antonyms  – Find alternative words using Merriam-Webster or Oxford API.
+Synonyms & Antonyms  – Find alternative words using Gemini API.
 
-Example Sentences  – AI-generated context-based sentences using GPT-4.
+Example Sentences  – AI-generated context-based sentences using Gemini.
 
-Word Pronunciation  – Listen to the correct pronunciation via the Web Speech API.
+Word Pronunciation  – Listen to the correct pronunciation via the Gemini API.
 
 Bookmark & Save Words  – Store words locally using the Chrome Storage API.
 
@@ -40,7 +40,7 @@ Right-click any word on a webpage.
 
 Select "AI Dictionary Lookup" from the context menu.
 
-A pop-up will appear with the word’s meaning, pronunciation, synonyms, antonyms, and example sentences.
+A pop-up will appear with the word’s meaning, pronunciation, synonyms, antonyms, translation and example sentences.
 
 Use the Bookmark feature to save words for later review.
 
